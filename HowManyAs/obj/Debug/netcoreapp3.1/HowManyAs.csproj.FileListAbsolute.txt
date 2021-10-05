@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.exe
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.deps.json
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.dll
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\bin\Debug\netcoreapp3.1\HowManyAs.pdb
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.dll
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.pdb
+C:\Users\opilane\source\repos\Titpe21\StringsAndArrays\HowManyAs\obj\Debug\netcoreapp3.1\HowManyAs.genruntimeconfig.cache
